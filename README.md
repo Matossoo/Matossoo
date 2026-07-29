@@ -1,126 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:8A2BE2&height=220&section=header&text=Rafael%20Matosso&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full%20Stack%20%7C%20SENAI%20%7C%20Naruto%20Fan&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Rafael%20Matosso&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🍃%20Full%20Stack%20Developer%20|%20SENAI%20|%20Naruto%20Fan&descAlignY=60"/>
+
+# 🍃 「忍道 do Desenvolvedor」 🍃
+
+*"Aqueles que continuam evoluindo nunca perdem o caminho."*
 
 </div>
 
-<h1 align="center">🍃 「忍道 do Desenvolvedor」 🍃</h1>
+---
 
-<p align="center">
-"Um verdadeiro shinobi nunca para de evoluir."
-</p>
+# 👋 Olá!
+
+Meu nome é **Rafael Matosso**.
+
+💻 Estudante de **Desenvolvimento de Sistemas (SENAI)**
+
+🥷 Apaixonado por tecnologia, desenvolvimento de software e pelo universo de Naruto.
+
+🎯 Objetivo:
+> Evoluir constantemente como desenvolvedor Full Stack e construir projetos cada vez maiores.
 
 ---
 
-## 👤 Sobre Mim
+# ⚔️ Perfil Shinobi
 
-🥷 Nome: **Rafael Matosso**
-
-💻 Estudante de Desenvolvimento de Sistemas (SENAI)
-
-🌱 Atualmente aprendendo
-
-- Java
-- Spring Boot
-- Node.js
-- MySQL
-- PostgreSQL
-
-🎯 Objetivo
-
-> Tornar-me um desenvolvedor Full Stack e criar projetos cada vez mais completos.
-
----
-
-## ⚔️ Status do Shinobi
-
-```text
-Rank        ▰▰▰▰▰▰▰▱▱▱  Chunin
-Java        ▰▰▰▰▰▰▰▰▱▱
-Spring      ▰▰▰▰▰▰▰▱▱▱
-MySQL       ▰▰▰▰▰▰▰▰▱▱
-HTML/CSS    ▰▰▰▰▰▰▰▰▱▱
-JavaScript  ▰▰▰▰▰▰▱▱▱▱
-Git         ▰▰▰▰▰▰▰▰▱▱
+```yaml
+Nome: Rafael Matosso
+Rank: Chunin
+Vila: Konohagakure 🍃
+Especialidade: Desenvolvimento Full Stack
+Missão Atual:
+  - Aprender novas tecnologias
+  - Criar APIs
+  - Desenvolver aplicações completas
 ```
 
 ---
 
-## 🍥 Kekkei Genkai (Tecnologias)
+# 🍥 Kekkei Genkai (Tecnologias)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,js,mysql,postgres,git,github,vscode"/>
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,mysql,postgres,git,github,vscode,idea"/>
 
-## 📊 Estatísticas
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matossoo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matossoo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🔥 Contribuições
+# 📊 Estatísticas
 
-<p align="center">
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Matossoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matossoo&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Matossoo&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🏯 Projetos
+# 📈 Atividade
 
-🎬 Catálogo de Filmes
-
-🏠 Sistema Imobiliário
-
-📚 Banco de Dados PostgreSQL
-
-⚙️ APIs REST com Spring Boot
-
-🤖 Projetos Arduino
-
-🌐 Sites Responsivos
-
----
-
-## 📈 Gráfico de Atividade
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matossoo&theme=tokyo-night"/>
 
-</p>
+</div>
 
 ---
 
-## 🐍 Cobra das Contribuições
+# ⚡ Nível de Poder
 
-<p align="center">
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-
-</p>
+| Habilidade | Nível |
+|------------|-------|
+| ☕ Java | █████████░ |
+| 🍃 Spring Boot | ████████░░ |
+| 🐬 MySQL | █████████░ |
+| 🐘 PostgreSQL | ███████░░░ |
+| 🌐 HTML/CSS | █████████░ |
+| ⚡ JavaScript | ███████░░░ |
+| 🌳 Git | ████████░░ |
 
 ---
 
-## ☁️ Frase Ninja
+# 🚀 Projetos
 
-> "Enquanto alguns desistem diante das dificuldades, eu treino até que elas deixem de existir."
+🎬 Sistema de Catálogo de Filmes
+
+🏠 Sistema Imobiliário
+
+🌐 APIs REST
+
+📚 Banco de Dados PostgreSQL
+
+🤖 Arduino & IoT
+
+💻 Projetos Acadêmicos do SENAI
+
+---
+
+# 🏆 Conquistas
+
+🏅 Sempre aprendendo
+
+📖 Estudando novas tecnologias
+
+⚡ Desenvolvendo projetos completos
+
+🍃 Buscando evolução constante
+
+---
+
+# 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# ☁️ Citação Ninja
+
+> *"O verdadeiro poder não está no talento, mas na dedicação para continuar evoluindo."*
 
 ---
 
 <div align="center">
 
-### 🍃 Obrigado pela visita! 🍃
+### 🍃 Obrigado pela visita!
 
 <img src="https://komarev.com/ghpvc/?username=Matossoo&style=for-the-badge&color=blue"/>
 
