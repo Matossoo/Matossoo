@@ -1,48 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Rafael%20Matosso&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=🍃%20Full%20Stack%20Developer%20|%20SENAI%20|%20Naruto%20Fan&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:1E3A8A,50:2563EB,100:38BDF8&text=Rafael%20Matosso&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=twinkling&desc=🍃%20Full%20Stack%20Developer%20|%20SENAI%20|%20Naruto%20Fan&descAlignY=60"/>
 
-# 🍃 「忍道 do Desenvolvedor」 🍃
+# 🍃 忍道 • Rafael Matosso
 
-*"Aqueles que continuam evoluindo nunca perdem o caminho."*
+### *"A força de um shinobi está na sua evolução constante."*
 
 </div>
 
 ---
 
-# 👋 Olá!
+## 👤 Sobre Mim
 
-Meu nome é **Rafael Matosso**.
+🥷 **Nome:** Rafael Matosso
 
-💻 Estudante de **Desenvolvimento de Sistemas (SENAI)**
+💻 **Estudante de Desenvolvimento de Sistemas - SENAI**
 
-🥷 Apaixonado por tecnologia, desenvolvimento de software e pelo universo de Naruto.
+🚀 Apaixonado por programação, banco de dados, desenvolvimento web e tecnologia.
 
-🎯 Objetivo:
-> Evoluir constantemente como desenvolvedor Full Stack e construir projetos cada vez maiores.
+🎯 Meu objetivo é me tornar um Desenvolvedor Full Stack e construir projetos cada vez maiores.
 
 ---
 
-# ⚔️ Perfil Shinobi
+# 📜 Databook Shinobi
 
 ```yaml
 Nome: Rafael Matosso
+
+Usuário GitHub: Matossoo
+
 Rank: Chunin
+
 Vila: Konohagakure 🍃
-Especialidade: Desenvolvimento Full Stack
-Missão Atual:
-  - Aprender novas tecnologias
-  - Criar APIs
-  - Desenvolver aplicações completas
+
+Especialidade:
+  - Java
+  - Spring Boot
+  - Banco de Dados
+  - Desenvolvimento Web
+
+Objetivo:
+  Tornar-se um Desenvolvedor Full Stack.
 ```
 
 ---
 
-# 🍥 Kekkei Genkai (Tecnologias)
+# ⚔️ Kekkei Genkai (Tecnologias)
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,mysql,postgres,git,github,vscode,idea"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,html,css,js,mysql,postgres,git,github,vscode,idea"/>
 
 </div>
 
@@ -52,9 +59,9 @@ Missão Atual:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Matossoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matossoo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matossoo&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matossoo&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,27 +77,27 @@ Missão Atual:
 
 ---
 
-# 📈 Atividade
+# 📈 Gráfico de Atividade
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matossoo&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matossoo&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# ⚡ Nível de Poder
+# ⚡ Status
 
-| Habilidade | Nível |
-|------------|-------|
+| Atributo | Nível |
+|-----------|-------|
 | ☕ Java | █████████░ |
 | 🍃 Spring Boot | ████████░░ |
 | 🐬 MySQL | █████████░ |
 | 🐘 PostgreSQL | ███████░░░ |
 | 🌐 HTML/CSS | █████████░ |
 | ⚡ JavaScript | ███████░░░ |
-| 🌳 Git | ████████░░ |
+| 🌳 Git | █████████░ |
 
 ---
 
@@ -104,44 +111,50 @@ Missão Atual:
 
 📚 Banco de Dados PostgreSQL
 
-🤖 Arduino & IoT
+🤖 Arduino
 
-💻 Projetos Acadêmicos do SENAI
-
----
-
-# 🏆 Conquistas
-
-🏅 Sempre aprendendo
-
-📖 Estudando novas tecnologias
-
-⚡ Desenvolvendo projetos completos
-
-🍃 Buscando evolução constante
+💻 Projetos SENAI
 
 ---
 
-# 🐍 Contribuições
+# 🏆 Atualmente
+
+🌱 Aprendendo novas tecnologias
+
+📖 Estudando Java e Spring Boot
+
+⚡ Criando aplicações completas
+
+🚀 Melhorando minhas habilidades diariamente
+
+---
+
+# ☁️ Frase Ninja
+
+> *"O talento abre portas, mas é a dedicação que constrói o caminho."*
+
+---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+## 📫 Contato
+
+<a href="mailto:SEUEMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEULINK">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
 </div>
 
 ---
 
-# ☁️ Citação Ninja
-
-> *"O verdadeiro poder não está no talento, mas na dedicação para continuar evoluindo."*
-
----
-
 <div align="center">
 
-### 🍃 Obrigado pela visita!
+<img src="https://komarev.com/ghpvc/?username=Matossoo&style=for-the-badge&color=0e75b6"/>
 
-<img src="https://komarev.com/ghpvc/?username=Matossoo&style=for-the-badge&color=blue"/>
+### 🍃 Obrigado por visitar meu perfil!
 
 </div>
