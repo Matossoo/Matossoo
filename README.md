@@ -12,7 +12,7 @@ Estudante de Técnico em Informática para Internet na WEG, com foco em construi
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 **Formação:** Técnico em Informática para Internet pela WEG, com foco em desenvolvimento de software.
+- 🎓 **Formação:** Técnico em Desenvolvimento de sistemas pelo SENAI, com foco em desenvolvimento de software.
 - 🎯 **Foco atual:** desenvolvimento backend com Java e Spring Boot, trabalhando com APIs REST, autenticação, autorização e bancos de dados.
 - 🧠 **Conhecimentos:** Java, Spring Boot, Spring Security, JWT, MySQL, Python, TypeScript, React e Next.js.
 - 🌱 **Em evolução:** desenvolvimento full stack, integração entre aplicações e aprimoramento das minhas práticas de programação.
